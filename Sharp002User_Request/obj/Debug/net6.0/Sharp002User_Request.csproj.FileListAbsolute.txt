@@ -3,3 +3,13 @@ C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj
 C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.AssemblyInfoInputs.cache
 C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.AssemblyInfo.cs
 C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.csproj.CoreCompileInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\bin\Debug\net6.0\Sharp002User_Request.exe
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\bin\Debug\net6.0\Sharp002User_Request.deps.json
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\bin\Debug\net6.0\Sharp002User_Request.runtimeconfig.json
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\bin\Debug\net6.0\Sharp002User_Request.dll
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\bin\Debug\net6.0\Sharp002User_Request.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.dll
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\refint\Sharp002User_Request.dll
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.pdb
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.genruntimeconfig.cache
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\ref\Sharp002User_Request.dll
