@@ -1,0 +1,5 @@
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.csproj.AssemblyReference.cache
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.AssemblyInfoInputs.cache
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.AssemblyInfo.cs
+C:\Users\dange\OneDrive\Рабочий стол\Example\Sharp002User_Request\obj\Debug\net6.0\Sharp002User_Request.csproj.CoreCompileInputs.cache
